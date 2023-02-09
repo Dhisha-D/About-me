@@ -1,8 +1,5 @@
 # About-me
 Name : Dhisha D
 Department : CSE
-Class : a
+Class : A
 
-
-
-Known Programming Language: C++ , HTML , CSS , Javascript
